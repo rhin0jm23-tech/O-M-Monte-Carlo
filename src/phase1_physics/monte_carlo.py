@@ -5,7 +5,7 @@ Calibrates to historical healthy days to establish performance envelope.
 
 import numpy as np
 import pandas as pd
-from typing import Tuple, Dict
+from typing import Tuple, Dict, Optional
 from scipy import stats
 
 
